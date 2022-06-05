@@ -1,0 +1,13 @@
+Базовые вещи
+https://airflow.apache.org/docs/apache-airflow/stable/concepts/index.html - основные термины и концепты airflow
+https://airflow.apache.org/docs/apache-airflow/stable/templates-ref.html - рефренс для макросов
+https://airflow.apache.org/docs/apache-airflow/stable/best-practices.html - best practices от самого airflow
+https://medium.com/datareply/airflow-lesser-known-tips-tricks-and-best-practises-cf4d4a90f8f - Еще неплохие best practices
+https://ru.wikipedia.org/wiki/Граф_(математика) - Про графы основные штуки есть на вики. С ходу нормальных статей не нашел на самом дел. Но там теории нужно чуть-чуть на самом деле. Что такое цикл и как их не делать фактически
+https://www.astronomer.io/guides/managing-dependencies - Про зависимости (2 урок)
+
+Advanced
+https://airflow.apache.org/docs/apache-airflow/stable/howto/index.html - разные гайды в доке
+https://airflow.apache.org/docs/apache-airflow/stable/logging-monitoring/index.html - Как настроить логгирование (недавно много копался, чтобы переписать наши логи полностью. плюс коллбеки на почту/телегу/etc)
+https://www.astronomer.io/guides/error-notifications-in-airflow - немного про нотификации
+https://livebook.manning.com/book/data-pipelines-with-apache-airflow/welcome/v-4/ - прямо целый учебник, я полистал выглядит неплохо
